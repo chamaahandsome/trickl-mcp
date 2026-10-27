@@ -1,0 +1,1 @@
+{"$schema":"https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json","description":"Trickl for AI assistants: full docs, setup plans, and sandbox tools to test purchases end to end.","name":"app.trickl/trickl","remotes":[{"type":"streamable-http","url":"https://api.trickl.app/mcp/dev"}],"title":"Trickl","version":"1.0.0","websiteUrl":"https://trickl.app"}
